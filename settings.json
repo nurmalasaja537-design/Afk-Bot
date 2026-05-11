@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "GojoSatoru65412.aternos.me",
+    "port": 16980,
+    "version": "26.1.2"
   },
 
   "position": {
